@@ -1,0 +1,1 @@
+![[f3c13199-1495-4f4a-90a4-2bf7ae51e6e3.png]][Рисование с помощью Render Targets в Unreal Engine](https://habr.com/ru/articles/420031/ "Рисование с помощью Render Targets в Unreal Engine")

@@ -1,0 +1,1 @@
+https://github.com/tranek/GASDocumentation/tree/master?tab=readme-ov-file#gasdocumentation
